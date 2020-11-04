@@ -14,7 +14,7 @@
 The purpose of the challenge is to practice plotting using the python matplotlib library and seaborn, using a dataset with information about the an online market place in Japan for used cars.
 
 ## Screenshots
-![Example screenshot](./assets/screenshot.png)
+![Example screenshot](./assets/screenshot.PNG)
 
 ## Technologies
 
